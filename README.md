@@ -10,8 +10,8 @@ This repository tracks my progress through Hack The Box as part of my ongoing cy
 
 | Name | Type | Difficulty | OS | Key Techniques | Writeup |
 |------|------|-----------|-----|-----------------|---------|
-| Meow | Starting Point Machine | Easy | Linux | Telnet enumeration, default root credentials | [Link](./Meow/meow_writeup.md) |
-| Brutus | Sherlock (Log Analysis) | Easy | Linux | SSH brute force detection, auth.log analysis | [Link](./Brutus/brutus.md) |
+| Meow | Starting Point Machine | Easy | Linux | Telnet enumeration, default root credentials | [Link](Meow/meow_writeup.md) |
+| Brutus | Sherlock (Log Analysis) | Easy | Linux | SSH brute force detection, auth.log analysis | [Link](Brutus/brutus.md) |
 
 ## Disclaimer
 
