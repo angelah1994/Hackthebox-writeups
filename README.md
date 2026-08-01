@@ -6,20 +6,7 @@ Writeups and notes from machines and challenges I've completed on [Hack The Box]
 
 This repository tracks my progress through Hack The Box as part of my ongoing cybersecurity and penetration testing practice. Each writeup covers the methodology used to compromise a machine, from initial reconnaissance to root/administrator access, along with the key lessons learned.
 
-## Structure
 
-```
-hackthebox-writeups/
-├── README.md
-├── machines/
-│   ├── easy/
-│   ├── medium/
-│   └── hard/
-└── challenges/
-    ├── web/
-    ├── forensics/
-    └── crypto/
-```
 
 ## Machines Completed
 
