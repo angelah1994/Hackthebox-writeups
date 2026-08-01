@@ -12,20 +12,14 @@
 This writeup documents the analysis of authentication logs to identify signs of a brute force attack against a target system.
 
 ## Log Analysis
+<img width="975" height="669" alt="image" src="https://github.com/user-attachments/assets/895ff554-4561-4459-80e7-57ebd0e46d1e" />
+<img width="975" height="398" alt="image" src="https://github.com/user-attachments/assets/d4f633e8-5b73-4b36-88a1-500a4bebfa43" />
+<img width="975" height="591" alt="image" src="https://github.com/user-attachments/assets/ea9384cc-38a8-4b41-8918-9e15790fe921" />
 
-![Log overview](images/brutus-01.png)
 
-![Log entries showing login attempts](images/brutus-02.png)
 
-![Log entries continued](images/brutus-03.png)
 
-![Log entries continued](images/brutus-04.png)
 
-![Log entries continued](images/brutus-05.png)
-
-![Log entries continued](images/brutus-06.png)
-
-![Log entries continued](images/brutus-07.png)
 
 ## Findings
 
